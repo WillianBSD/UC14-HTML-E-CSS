@@ -1,0 +1,24 @@
+    .Título{
+        text-align: center;
+        color: darkgreen;
+       font-family: "Playfair Display", serif;
+    }
+    #bemvindos{
+        font-family: "Jost", sans-serif;
+        color: rgb(0, 0, 0);
+        text-align: left;
+    }
+    #Médicos{
+        background-color: darkolivegreen;
+       
+      
+        
+    }
+    #aviso{
+        color: crimson;
+    }
+    .Depoimentos{
+        color: forestgreen;
+        font-family: "Playfair Display", serif;
+        text-align: center;
+    }
