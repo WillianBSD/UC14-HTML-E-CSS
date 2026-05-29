@@ -1,0 +1,37 @@
+:root{
+    --cor-primaria:#EE0000;
+    --cor-secundaria:#EE1289;
+    --cor-terciaria:#FF6347;
+    --cor-texto:#000000;
+    --cor-branca: #ffffff;
+
+    --fonte-principal: "Turret Road", sans-serif;
+    --borda-radius: 20px;
+}
+h1{
+    text-align: center;
+    color: var(--cor-primaria);
+    font-family:var(--fonte-principal)
+}
+.caixa{
+    background-color: #000000;
+    border: #EE1289;
+    border-radius: var(--borda-radius);
+    box-shadow: var(--cor-secundaria);
+}
+h2{
+    color: #EE1289;
+    font-family: "Turret Road", sans-serif;
+}
+ul{
+    background-color: #e9c5ed;
+    border-radius: var(--borda-radius);
+    font-family: var(--fonte-principal);
+    color: var(--cor-terciaria);
+}
+button{
+    background-color: aliceblue;
+    color: var(--cor-primaria);
+    border-radius: var(--borda-radius);
+    font-size: var(--fonte-principal);
+}
